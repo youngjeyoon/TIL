@@ -2,7 +2,7 @@
 
 int main()
 {
-	// »ï°¢Çü ¸¸µé±â
+	// Â»Ã¯Â°Â¢Ã‡Ã¼ Â¸Â¸ÂµÃ©Â±Ã¢
 
 	for (int i = 4; i > 0; i--)
 	{
@@ -11,7 +11,7 @@ int main()
 		printf("\n");
 	}
 
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < 6; i++)
 	{
 		for (int j = 0; j <= i; j++)
 			printf("%d", j);
